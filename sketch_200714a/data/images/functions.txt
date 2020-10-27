@@ -1,0 +1,13 @@
+
+blur
+blurS
+gaussian3
+gaussian5
+kmeans
+mean
+sobel
+sobel2
+sobelMax
+threshold
+variance
+variance2

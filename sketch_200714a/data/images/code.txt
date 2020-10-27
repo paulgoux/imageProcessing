@@ -1,0 +1,21 @@
+//float k = ((v/b)*(v)/(b)) *((b/v)*(v))-((v)/(b));
+////k = abs(v*v - (v-b)*(v-b));
+////println(k);
+////k = abs(v - b2);
+//k = v;
+
+//float t1 = (k);
+////k = (v*v -t1*t1);
+//float t = 2.0;
+////k = 2.0 / (1.0 + exp(-2.0 * k)) - 1.0;
+//k = (t/ (1.0 + exp(-t * (k))) - 1.0)*val[0]*mult;
+//if(k>255)k = 255;
+//if(val[3]>=2)
+//sobel.pixels[p] = color(b2+offset);
+//sobel.pixels[p] = color(255);
+//if (k>250)
+//if(val[3]>5)
+//println(k,val[3]);
+//if(val[3]>0)
+//sobel.pixels[p] = color(255-(k-b2));
+//if(brightness(sobel.pixels[p])<230)sobel.pixels[p]= color(0);
